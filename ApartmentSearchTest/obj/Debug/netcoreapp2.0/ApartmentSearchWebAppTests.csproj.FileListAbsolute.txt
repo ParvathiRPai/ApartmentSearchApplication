@@ -1,0 +1,16 @@
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\DocumentDB.Spatial.Sql.dll
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.deps.json
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.runtimeconfig.json
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.runtimeconfig.dev.json
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.dll
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\bin\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.pdb
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\obj\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.csproj.CoreCompileInputs.cache
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\obj\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.AssemblyInfoInputs.cache
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\obj\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.AssemblyInfo.cs
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\obj\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.dll
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\obj\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.pdb
+C:\repos\ApartmentSearchService\ApartmentSearchWebApp\ApartmentSearchTest\obj\Debug\netcoreapp2.0\ApartmentSearchWebAppTests.csprojResolveAssemblyReference.cache
